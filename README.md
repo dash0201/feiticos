@@ -1,4 +1,4 @@
-##**Seu Guia Mágico para o Mundo dos Feitiços! - Imersão Dev com Google Gemini**
+## **Seu Guia Mágico para o Mundo dos Feitiços! - Imersão Dev com Google Gemini**
 
 ###**Uma Busca Mágica por Feitiços**
 
